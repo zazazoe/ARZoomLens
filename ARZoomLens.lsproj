@@ -1,0 +1,1069 @@
+{
+    "lens_id": "",
+    "document_id": "xBwfQByn9fPd38jkrOSG",
+    "original_document_id": "1E2-bNIWR6eg1G8zGJ08",
+    "version": "23",
+    "lastChanged": "1589219827909",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Behavior"
+                    ],
+                    [
+                        "Clap"
+                    ],
+                    [
+                        "Diffuse"
+                    ],
+                    [
+                        "Face Mesh"
+                    ],
+                    [
+                        "Face Texture"
+                    ],
+                    [
+                        "Gold"
+                    ],
+                    [
+                        "Hand Pos"
+                    ],
+                    [
+                        "Matte Shadow"
+                    ],
+                    [
+                        "Simple PBR"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Base"
+                    ],
+                    [
+                        "Textures",
+                        "Normal"
+                    ],
+                    [
+                        "Textures",
+                        "white"
+                    ],
+                    [
+                        "ThumbsUp"
+                    ],
+                    [
+                        "WOW"
+                    ],
+                    [
+                        "transparentImg"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813",
+                    "1517446348228144:84822",
+                    "1528843813151434:5126",
+                    "1588805044842356:49892"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "ea6488ca8caada0d6431064ac68ebfd9",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                ""
+            ],
+            "lens": "NoNoise",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "UiComponent": {
+            "active_graph_material": "-1:-1",
+            "active_graph_pass": "-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588795361366165:324788",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588795382391224:325155",
+                    "name": "Files\/File3.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1588795500719582:329996",
+                    "name": "Files\/File6",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1588795500759875:330034",
+                    "name": "Files\/File8.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1588795500779452:330046",
+                    "name": "Files\/File10.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1588795513136380:330419",
+                    "name": "Files\/File12",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1588795538824827:330806",
+                    "name": "Files\/File14",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1588795538862155:330837",
+                    "name": "Files\/File16.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1588795584516436:332803",
+                    "name": "Files\/File18.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1588796820811502:346915",
+                    "name": "Face Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1588799224918291:469810",
+                    "name": "Files\/File28",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1588800115723426:479286",
+                    "name": "Files\/File30.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1588803164913226:580925",
+                    "name": "Files\/File31",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1588805684543114:90548",
+                    "name": "Files\/File39",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1588811380115596:153920",
+                    "name": "Files\/File42",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1588798052549479:398375",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1588798052575377:398509",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1588798052607251:398655",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1588795361324873:324714",
+                "4": "1588798052536700:398309",
+                "5": "1588798052549276:398374",
+                "6": "1588798052575053:398508",
+                "7": "1588798052606842:398654",
+                "8": "1588798399128371:428754",
+                "9": "1588803780102726:599728",
+                "10": "1588803781541903:601695",
+                "11": "1588804102632996:9118",
+                "12": "1588805044842014:49891",
+                "13": "1588805044842356:49892",
+                "14": "1588805088637124:52586",
+                "15": "1588805118286723:53490",
+                "16": "1588810529765770:128895"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.js"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.lsmat"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.png"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.png"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.png"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.png"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.lsmat"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.lsmat"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.png"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.png"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.png"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.png"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.gif"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.js"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.gif"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.gif"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.lsmat"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "125",
+                        "v": "Behavior.js"
+                    },
+                    {
+                        "k": "127",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "128",
+                        "v": "Textures\/Base.png"
+                    },
+                    {
+                        "k": "129",
+                        "v": "Textures\/Normal.png"
+                    },
+                    {
+                        "k": "130",
+                        "v": "Diffuse.lsmat"
+                    },
+                    {
+                        "k": "131",
+                        "v": "Matte Shadow.lsmat"
+                    },
+                    {
+                        "k": "132",
+                        "v": "Textures\/white.png"
+                    },
+                    {
+                        "k": "133",
+                        "v": "Gold.lsmat"
+                    },
+                    {
+                        "k": "134",
+                        "v": "transparentImg.png"
+                    },
+                    {
+                        "k": "139",
+                        "v": "Clap.gif"
+                    },
+                    {
+                        "k": "140",
+                        "v": "Hand Pos.js"
+                    },
+                    {
+                        "k": "141",
+                        "v": "ThumbsUp.gif"
+                    },
+                    {
+                        "k": "145",
+                        "v": "WOW.gif"
+                    },
+                    {
+                        "k": "147",
+                        "v": "Simple PBR.lsmat"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "125",
+                        "v": "b135f6a9cefe77e6bd518dc014fd6257"
+                    },
+                    {
+                        "k": "126",
+                        "v": "63db1de4c1fd5c7aecaf38920b69f1e8"
+                    },
+                    {
+                        "k": "128",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "129",
+                        "v": "8a0173d0b987e1abfebd4ef9e3304c0b"
+                    },
+                    {
+                        "k": "130",
+                        "v": "a9ff666b43b0eb0bd8ab9bc86101db0f"
+                    },
+                    {
+                        "k": "131",
+                        "v": "905ae734ccc86309ae71b286592b3a2b"
+                    },
+                    {
+                        "k": "132",
+                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
+                    },
+                    {
+                        "k": "133",
+                        "v": "877aebd1f094c9a67b06339f204b950e"
+                    },
+                    {
+                        "k": "134",
+                        "v": "6f3623a336c52a699e906b33be97e899"
+                    },
+                    {
+                        "k": "135",
+                        "v": "9f3cb8b5a0d60f6be5852e3d11582529"
+                    },
+                    {
+                        "k": "136",
+                        "v": "9d5a01d890b2323b0eacebf2e6761844"
+                    },
+                    {
+                        "k": "137",
+                        "v": "eb82d6b83faf1ba9aee2b18f68e38972"
+                    },
+                    {
+                        "k": "138",
+                        "v": "8bce36d5a2e7eb7f64fbf9bc4baf2e46"
+                    },
+                    {
+                        "k": "139",
+                        "v": "54010bb8921d72c0fd54416e885aca58"
+                    },
+                    {
+                        "k": "140",
+                        "v": "4cd174a848bb7206dfdd5d931175e202"
+                    },
+                    {
+                        "k": "141",
+                        "v": "447fbe6561f14512a86f249a78e3b63c"
+                    },
+                    {
+                        "k": "142",
+                        "v": "d95f69145561c8229f6c3c87b61f76c4"
+                    },
+                    {
+                        "k": "143",
+                        "v": "16d87fa2eea6e19b2ee863c59cd24341"
+                    },
+                    {
+                        "k": "144",
+                        "v": "a19bf0a06e95b1d8fa0bd7df19cc7e21"
+                    },
+                    {
+                        "k": "145",
+                        "v": "33a0b82cf798233ba1d87946f44e53ff"
+                    },
+                    {
+                        "k": "146",
+                        "v": "3924da4ece660b56cdcb4f2b7b3fe66c"
+                    },
+                    {
+                        "k": "147",
+                        "v": "ec6dea9f5c63e5c513a0d549c22abe91"
+                    },
+                    {
+                        "k": "148",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-05-11T10:56:47",
+                        "name": "Public",
+                        "hash": "ae421d917883034958ac414c498ea15a",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-06T17:30:25",
+                                "name": "Simple PBR.lsmat",
+                                "hash": "ec6dea9f5c63e5c513a0d549c22abe91",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-05-11T10:53:12",
+                                "name": "Textures",
+                                "hash": "df7207246527c0622e45025f6b5f35e6",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-05-06T13:05:00",
+                                        "name": "Base.png",
+                                        "hash": "cb607d7b25a160872c49fb4d2635cc33",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-05-06T13:05:00",
+                                        "name": "Normal.png",
+                                        "hash": "8a0173d0b987e1abfebd4ef9e3304c0b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-05-06T13:05:38",
+                                        "name": "white.png",
+                                        "hash": "0c8dcfed2f50bb81ac5276a14967c005",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-05-06T13:05:00",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-06T20:13:01",
+                                "name": "Hand Pos.js",
+                                "hash": "4cd174a848bb7206dfdd5d931175e202",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-06T17:31:53",
+                                "name": "Diffuse.lsmat",
+                                "hash": "a9ff666b43b0eb0bd8ab9bc86101db0f",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-06T14:06:58",
+                                "name": "Clap.gif",
+                                "hash": "54010bb8921d72c0fd54416e885aca58",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-06T15:54:38",
+                                "name": "WOW.gif",
+                                "hash": "33a0b82cf798233ba1d87946f44e53ff",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-06T13:03:02",
+                                "name": "Behavior.js",
+                                "hash": "b135f6a9cefe77e6bd518dc014fd6257",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-01T13:30:05",
+                                "name": "transparentImg.png",
+                                "hash": "6f3623a336c52a699e906b33be97e899",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-06T13:05:13",
+                                "name": "Matte Shadow.lsmat",
+                                "hash": "905ae734ccc86309ae71b286592b3a2b",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-06T09:02:01",
+                                "name": "ThumbsUp.gif",
+                                "hash": "447fbe6561f14512a86f249a78e3b63c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-06T17:16:05",
+                                "name": "Gold.lsmat",
+                                "hash": "877aebd1f094c9a67b06339f204b950e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-12-13T17:21:47",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Face Mesh",
+                        "type": "3",
+                        "subtype": "2",
+                        "resourceId": "10",
+                        "dependency": "0",
+                        "uid": "1588795361366165:324788",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Behavior",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "11",
+                        "dependency": "0",
+                        "uid": "1588795382391224:325155",
+                        "fileId": "3",
+                        "originalId": "18446744073709551615",
+                        "publicId": "125",
+                        "source": "\/var\/folders\/8j\/2wrvgz3s56gcfsr3tjrwk1gh0000gn\/T\/Lens Studio-vEqPAd\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "127",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Base",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "14",
+                                "dependency": "0",
+                                "uid": "1588795500759875:330034",
+                                "fileId": "8",
+                                "originalId": "9",
+                                "publicId": "128",
+                                "source": "\/var\/folders\/8j\/2wrvgz3s56gcfsr3tjrwk1gh0000gn\/T\/Lens Studio-vEqPAd\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Normal",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "15",
+                                "dependency": "0",
+                                "uid": "1588795500779452:330046",
+                                "fileId": "10",
+                                "originalId": "11",
+                                "publicId": "129",
+                                "source": "\/var\/folders\/8j\/2wrvgz3s56gcfsr3tjrwk1gh0000gn\/T\/Lens Studio-vEqPAd\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "white",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "18",
+                                "dependency": "0",
+                                "uid": "1588795538862155:330837",
+                                "fileId": "16",
+                                "originalId": "17",
+                                "publicId": "132",
+                                "source": "\/var\/folders\/8j\/2wrvgz3s56gcfsr3tjrwk1gh0000gn\/T\/Lens Studio-vEqPAd\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Diffuse",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "13",
+                        "dependency": "0",
+                        "uid": "1588795500719582:329996",
+                        "fileId": "6",
+                        "originalId": "7",
+                        "publicId": "130",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Matte Shadow",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "16",
+                        "dependency": "0",
+                        "uid": "1588795513136380:330419",
+                        "fileId": "12",
+                        "originalId": "13",
+                        "publicId": "131",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Gold",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "17",
+                        "dependency": "0",
+                        "uid": "1588795538824827:330806",
+                        "fileId": "14",
+                        "originalId": "15",
+                        "publicId": "133",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "transparentImg",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "19",
+                        "dependency": "0",
+                        "uid": "1588795584516436:332803",
+                        "fileId": "18",
+                        "originalId": "19",
+                        "publicId": "134",
+                        "source": "\/Users\/Tellart\/Documents\/transparentImg.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Face Texture",
+                        "type": "1",
+                        "subtype": "2",
+                        "resourceId": "21",
+                        "dependency": "0",
+                        "uid": "1588796820811502:346915",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Clap",
+                        "type": "1",
+                        "subtype": "5",
+                        "resourceId": "26",
+                        "dependency": "0",
+                        "uid": "1588799224918291:469810",
+                        "fileId": "28",
+                        "originalId": "29",
+                        "publicId": "139",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Hand Pos",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "27",
+                        "dependency": "0",
+                        "uid": "1588800115723426:479286",
+                        "fileId": "30",
+                        "originalId": "18446744073709551615",
+                        "publicId": "140",
+                        "source": "\/var\/folders\/8j\/2wrvgz3s56gcfsr3tjrwk1gh0000gn\/T\/Lens Studio-vEqPAd\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "ThumbsUp",
+                        "type": "1",
+                        "subtype": "5",
+                        "resourceId": "28",
+                        "dependency": "0",
+                        "uid": "1588803164913226:580925",
+                        "fileId": "31",
+                        "originalId": "32",
+                        "publicId": "141",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "WOW",
+                        "type": "1",
+                        "subtype": "5",
+                        "resourceId": "32",
+                        "dependency": "0",
+                        "uid": "1588805684543114:90548",
+                        "fileId": "39",
+                        "originalId": "40",
+                        "publicId": "145",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Simple PBR",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "34",
+                        "dependency": "0",
+                        "uid": "1588811380115596:153920",
+                        "fileId": "42",
+                        "originalId": "43",
+                        "publicId": "147",
+                        "source": "",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1588800115723426:479286",
+                        "path_list": [
+                            "Hand Pos"
+                        ]
+                    }
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}
